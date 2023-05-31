@@ -65,27 +65,27 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Feedly',
-			icon: 'rss',
-			link: 'https://feedly.com/',
-		},
-		{
-			id: '4',
 			name: 'Github',
 			icon: 'github',
 			link: 'https://github.com/',
 		},
 		{
+			id: '4',
+			name: 'RPG Vola',
+			icon: 'archive',
+			link: 'https://rebrand.ly/newVola',
+		},
+		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Feedly',
+			icon: 'rss',
+			link: 'https://feedly.com/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -98,7 +98,7 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'twitter',
+			name: '',
 			icon: 'twitter',
 			link: 'https://twitter.com/',
 		},
