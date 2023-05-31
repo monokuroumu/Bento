@@ -53,15 +53,15 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Mail',
+			icon: 'mail',
+			link: 'http://mail.monochrome.pl/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.monochrome.pl/',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'http://calendar/monochrome.pl',
 		},
 		{
 			id: '3',
@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/u/0/r',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/',
 		},
 		{
 			id: '5',
