@@ -36,7 +36,7 @@ const CONFIG = {
 	defaultLongitude: '17.038',
 
 	// Autochange
-	autoChangeTheme: true,
+	autoChangeTheme: false,
 
 	// Autochange by OS
 	changeThemeByOS: true,
@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.monochrome.com/',
+			link: 'https://mail.monochrome.pl/',
 		},
 		{
 			id: '3',
