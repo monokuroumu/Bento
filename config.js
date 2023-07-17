@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'RPG Vola',
 			icon: 'archive',
-			link: 'https://dik.si/newVola',
+			link: 'https://rebrand.ly/newVolaDrop',
 		},
 		{
 			id: '5',
